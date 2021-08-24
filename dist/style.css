@@ -28,12 +28,14 @@ body {
 .card-header {
     background-color: var(--secondary);
     color: var(--primary);
+    box-shadow: 10px 10px 5px #e5e5e5;
 }
 
 .card-body {
     background-color: var(--primary);
     color: var(--quaternary);
     font-size: 1rem;
+    box-shadow: 10px 10px 5px #e5e5e5;
 }
 
 .container {
