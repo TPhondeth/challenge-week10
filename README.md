@@ -1,4 +1,4 @@
-
+  
   # Object-Oriented Programming Challenge: Team Profile Generator
 
   ## Licensing:
@@ -21,12 +21,11 @@
     npm install inquirer 
     npm install --save-dev jest
 
-  ## Walkthrough Video  
-    
-  
+  ## Walkthrough Video
+  https://user-images.githubusercontent.com/77017355/130711615-01994bc5-b31e-4516-9b05-7f7bfce5768f.mp4
   
   ## Link to video
-  https://drive.google.com/file/d/1dEgNAzAz7cTOajcjnRVnmkpzzQY6nylL/view?usp=sharing
+  https://drive.google.com/file/d/1C_IYL5xISjCSlfEdfOSV8SvHNvlRsYRZ/view?usp=sharing
   
   ## Usage 
   To invoke type: node index.js
