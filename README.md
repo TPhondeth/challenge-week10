@@ -1,5 +1,5 @@
 
-  # Professional README Generator
+  # Object-Oriented Programming Challenge: Team Profile Generator
 
   ## Licensing:
   [![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
