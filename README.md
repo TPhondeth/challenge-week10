@@ -5,7 +5,7 @@
   [![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
 
   ## Description
-    The challenge this week is build a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
+  The challenge this week is build a Node.js command-line application that takes in information about employees on a software engineering team and generates an       HTML webpage that displays summaries for each person.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -17,19 +17,21 @@
   - [Questions](#questions)
 
   ## Installation
-    npm init npm install inquirer npm install --save-dev jest
+    npm init 
+    npm install inquirer 
+    npm install --save-dev jest
 
   ## Usage 
-    To invoke type: node index.js
+  To invoke type: node index.js
 
   ## Tests
-    Tests are run through the Jest application. To run type: npm test
+  Tests are run through the Jest application. To run type: npm test
 
   ## License
-    This application is covered under the MIT license.
+  This application is covered under the MIT license.
 
   ## Contributing
-    Tony Phondeth
+  Tony Phondeth
 
   ## Questions
   - Github: [TPhondeth](https://github.com/TPhondeth)
