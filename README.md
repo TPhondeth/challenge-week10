@@ -21,6 +21,13 @@
     npm install inquirer 
     npm install --save-dev jest
 
+  ## Walkthrough Video  
+    
+  
+  
+  ## Link to video
+  https://drive.google.com/file/d/1dEgNAzAz7cTOajcjnRVnmkpzzQY6nylL/view?usp=sharing
+  
   ## Usage 
   To invoke type: node index.js
 
