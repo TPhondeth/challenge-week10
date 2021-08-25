@@ -22,10 +22,10 @@
     npm install --save-dev jest
 
   ## Walkthrough Video
-  https://user-images.githubusercontent.com/77017355/130711615-01994bc5-b31e-4516-9b05-7f7bfce5768f.mp4
-  
+  https://user-images.githubusercontent.com/77017355/130713894-63a0df3f-46b9-4a10-a5fb-f4e87cd68a9d.mp4
+
   ## Link to video
-  https://drive.google.com/file/d/1C_IYL5xISjCSlfEdfOSV8SvHNvlRsYRZ/view?usp=sharing
+  https://drive.google.com/file/d/1EanBRgKDZA8qmq_rnEgbiQp4qSfvPo0c/view?usp=sharing
   
   ## Usage 
   To invoke type: node index.js
